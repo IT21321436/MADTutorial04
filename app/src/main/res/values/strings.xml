@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Git_MAD</string>
+    <string name="uName">Enter User Name</string>
+    <string name="uEmail">Enter Email</string>
+    <string name="uPassword">Enter Password</string>
+    <string name="uRePassword">Re-Enter Password</string>
+    <string name="uSubmit">Submit</string>
+    <string name="uCancel">Cancel</string>
 </resources>
